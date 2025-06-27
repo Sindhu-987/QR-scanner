@@ -9,12 +9,12 @@ A beginner-friendly QR Code Scanner built using HTML, CSS, and JavaScript with t
 
 ## 🚀 How to Run
 1. Clone this repo  
-   `git clone https://github.com/your-username/qr-code-scanner.git`
-2. Open `index.html` in your browser  
-   *(no server setup needed)*
+   `git clone https://github.com/Sindhu-987/qr-code-scanner.git`
+   `cd qr-code-scanner`
+3. Open `index.html` in your browser  
 
 ## 🌐 Live Demo
-[🔗 View on GitHub Pages](https://yourusername.github.io/qr-code-scanner)
+[🔗 View on GitHub Pages](https://sindhu-987.github.io/QR-scanner/)
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript
